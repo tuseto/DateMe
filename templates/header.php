@@ -13,7 +13,7 @@ if (session_status() == PHP_SESSION_NONE) {
     <body>
         <div id="navigation">
 
-            <span class="button"><a class="menu" href="?home">Home</a></span>
+            <span class="button"><a class="menu" href="?home">Test</a></span>
             <span class="button"><a class="menu" href="?viewprofile">View Profile</a></span>
             <span ><img src=./logos/Logo.png height="45" class="logo"></span>
             <span class="button"><a class="menu" href="?dateslist">Dates List</a></span>
